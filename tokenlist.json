@@ -1,0 +1,19 @@
+{
+  "name": "Hacheeto Token List",
+  "timestamp": "2025-10-03T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "YOUR_CONTRACT_ADDRESS_HERE",
+      "name": "Hacheeto Coin",
+      "symbol": "CHTO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pjcambodia/hacheeto-token-assets/main/logo/chto-256.png"
+    }
+  ]
+}
